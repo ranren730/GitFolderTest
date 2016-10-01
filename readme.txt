@@ -1,3 +1,3 @@
-This is a readme file.
+This is a distributed readme file.
 
-This is created by ran.
+This is created by ran on 2/10/2016.
